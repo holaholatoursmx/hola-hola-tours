@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://holaholatoursmx.github.io/hola-hola-tours/sitemap.xml
